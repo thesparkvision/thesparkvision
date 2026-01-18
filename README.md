@@ -9,6 +9,9 @@ My current tech stack includes Python, Django, Postgres, React, HTML, CSS, JavaS
 - 🎥 I love to watch movies / web-series when I am free or relaxing
 - 🎹 I love listening music while doing my steps or coding
 
+## This year Mantra
+Improvise
+
 ## Current year building pipeline
 
 - [Reading reminder tool](https://github.com/thesparkvision/ReadEveryWeek)
