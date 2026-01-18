@@ -1,4 +1,7 @@
-I am a full stack developer. I can work around python and javascript ecosystem but I know golang, bit of Java too - I aim to be a polyglot T-shaped developer with deep expertise in one of the areas with time. I wanna be the very best of myself (read Ash Ketchum). I want to know everything - LLM, blockchain, Cloud, Devops, frontend, backend, market expertise, design skills, UX, deployment, game development.
+I am a full stack developer. I can work around python and javascript ecosystem but I know golang, bit of Java too.
+
+I aim to be a polyglot T-shaped developer with deep expertise in one of the areas with time. 
+I wanna be the very best of myself (read Ash Ketchum). I want to know everything - LLM, blockchain, Cloud, Devops, frontend, backend, multiple domain knowledge, design skills, UX, deployment, game development.
 
 My current tech stack includes Python, Django, Postgres, React, HTML, CSS, JavaScript, Docker, Claude Code, Gemini
 
@@ -8,7 +11,7 @@ My current tech stack includes Python, Django, Postgres, React, HTML, CSS, JavaS
 
 ## Current year building pipeline
 
-- ![Reading reminder tool](https://github.com/thesparkvision/ReadEveryWeek)
+- [Reading reminder tool](https://github.com/thesparkvision/ReadEveryWeek)
 - Health tracker - yet to be started
 - Improving current projects
 
