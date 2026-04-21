@@ -19,7 +19,6 @@ Improvise
 - Improving current projects
 
 ## Currently Reading
-- The Design of Everyday Things
-- Fooled by Randomness
+- 1984
 
 <!-- ![github stats](https://github-readme-stats.vercel.app/api?username=thesparkvision&show_icons=true&theme=tokyonight) -->
