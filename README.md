@@ -5,12 +5,8 @@ I wanna be the very best of myself (read Ash Ketchum). I want to know everything
 
 My current tech stack includes Python, Django, Postgres, React, HTML, CSS, JavaScript, Docker, Claude Code, Gemini
 
-- 💬 Ask me about Data Structures, Python, Software Development, AI
-- 🎥 I love to watch movies / web-series when I am free or relaxing
-- 🎹 I love listening music while doing my steps or coding
-
 ## This year Mantra
-Improvise
+Improvise & have fun
 
 ## Current year building pipeline
 
@@ -19,6 +15,7 @@ Improvise
 - Improving current projects
 
 ## Currently Reading
-- 1984
+- Fooled By Randomness
+- The Design of Everyday Things
 
 <!-- ![github stats](https://github-readme-stats.vercel.app/api?username=thesparkvision&show_icons=true&theme=tokyonight) -->
