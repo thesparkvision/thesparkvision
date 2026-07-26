@@ -1,12 +1,12 @@
-I am a full stack developer. I can work around python and javascript ecosystem but I know golang, bit of Java too.
+I am a full stack developer. I can work around python and javascript ecosystem.
 
 I aim to be a polyglot T-shaped developer with deep expertise in one of the areas with time. 
-I wanna be the very best of myself (read Ash Ketchum). I want to know everything - LLM, blockchain, Cloud, Devops, frontend, backend, multiple domain knowledge, design skills, UX, deployment, game development, mobile development
+I wanna be the very best version of myself and never stop learning or growing in knowledge and being a better human.
 
-My current tech stack includes Python, Django, Postgres, React, HTML, CSS, JavaScript, Docker, Claude Code, Gemini
+My current tech stack includes Python, Django, Postgres, React, HTML, CSS, JavaScript, Docker, Claude Code, Gemini, Codex (I can work with MCP, skills and agents)
 
 ## This year Mantra
-Improvise & have fun
+Improvise, have fun and accelerate myself for next 5 years.
 
 ## Current year building pipeline
 
@@ -15,6 +15,7 @@ Improvise & have fun
 - Improving current projects
 
 ## Currently Reading
+- Authenticity Project
 - Fooled By Randomness
 - The Design of Everyday Things
 
