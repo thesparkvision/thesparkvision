@@ -15,7 +15,7 @@ Improvise, have fun and accelerate myself for next 5 years.
 - Improving current projects
 
 ## Currently Reading
-- Authenticity Project
+- A Good Girl's Guide to Murder
 - Fooled By Randomness
 - The Design of Everyday Things
 
